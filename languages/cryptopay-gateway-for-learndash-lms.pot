@@ -1,0 +1,79 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: CryptoPay Gateway for LearnDash LMS\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-20 10:47+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.11; wp-6.6\n"
+"X-Domain: cryptopay-gateway-for-learndash-lms"
+
+#. %s: Gateway Title
+#: app/Sections/AbstractSection.php:82
+#, php-format
+msgid "%s Settings"
+msgstr ""
+
+#: app/Sections/AbstractSection.php:108
+msgid "Active"
+msgstr ""
+
+#. Description of the plugin
+msgid "Adds Cryptocurrency payment gateway (CryptoPay) for LearnDash LMS."
+msgstr ""
+
+#. Author of the plugin
+msgid "BeycanPress LLC"
+msgstr ""
+
+#. Name of the plugin
+msgid "CryptoPay Gateway for LearnDash LMS"
+msgstr ""
+
+#: app/Sections/AbstractSection.php:121
+msgid "Dark"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://beycanpress.com"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://beycanpress.com/cryptopay/"
+msgstr ""
+
+#: app/Initialize.php:18
+msgid "LearnDash transactions"
+msgstr ""
+
+#: app/Sections/AbstractSection.php:120
+msgid "Light"
+msgstr ""
+
+#: app/Gateways/AbstractGateway.php:423
+msgid "Please wait..."
+msgstr ""
+
+#: app/Gateways/AbstractGateway.php:179
+msgid "Product not found."
+msgstr ""
+
+#: app/Gateways/AbstractGateway.php:269
+msgid "The Billing Cycle Interval value must be set."
+msgstr ""
+
+#: app/Gateways/AbstractGateway.php:271
+msgid "The minimum Billing Cycle value is 1."
+msgstr ""
+
+#: app/Sections/AbstractSection.php:117
+msgid "Theme"
+msgstr ""

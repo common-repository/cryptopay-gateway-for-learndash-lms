@@ -1,0 +1,23 @@
+.ldlms-cp-btn {
+    border: 0;
+    border-radius: 0;
+    color: #000 !important;
+    display: block !important;
+    font-size: 14px !important;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 400;
+    line-height: 1.5em;
+    margin: 0;
+    padding: .5em 1em;
+    text-align: center;
+    text-transform: none;
+    transition: none;
+    width: 100% !important;
+    background: #fff;
+}
+
+.ldlms-cp-btn:hover {
+    background: #fafafa !important;
+    color: #495255 !important;
+}
